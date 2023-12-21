@@ -1,0 +1,59 @@
+2023-12-09 00:23:57 error: [GET] /api/v1/profiles/1 >> StatusCode:: 404, Message:: Profile not found
+2023-12-09 00:24:00 error: [GET] /api/v1/profiles/1 >> StatusCode:: 404, Message:: Profile not found
+2023-12-09 00:24:24 error: [GET] /api/v1/profiles/2 >> StatusCode:: 404, Message:: Profile not found
+2023-12-09 00:24:29 error: [GET] /api/v1/profiles/1 >> StatusCode:: 404, Message:: Profile not found
+2023-12-09 00:24:47 error: [GET] /api/v1/profiles/1 >> StatusCode:: 404, Message:: Profile not found
+2023-12-09 00:24:50 error: [GET] /api/v1/profiles/1 >> StatusCode:: 404, Message:: Profile not found
+2023-12-09 10:49:01 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Unable to fetch profiles
+2023-12-09 10:49:07 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Unable to fetch profiles
+2023-12-09 10:52:01 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Unable to fetch profiles
+2023-12-09 10:52:13 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Unable to fetch profiles
+2023-12-09 10:54:35 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Unable to fetch profiles
+2023-12-09 10:55:34 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 10:56:35 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 10:57:27 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 13:16:59 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 13:17:30 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 13:17:36 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 13:18:27 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 13:21:24 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 13:32:08 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 14:56:07 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 14:56:13 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 14:56:18 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 14:56:23 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 14:56:27 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 15:00:25 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 15:05:42 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 15:13:22 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 15:22:36 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 15:23:07 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 15:23:47 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 15:25:41 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 15:26:08 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 15:26:12 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 15:26:14 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 15:29:16 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 15:29:24 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 15:29:28 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 15:31:30 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 15:31:43 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 15:32:01 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 15:33:51 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 15:34:12 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 15:35:50 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 15:35:54 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 15:40:38 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 15:45:10 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 15:56:14 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 15:56:24 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 15:58:15 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 15:58:23 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 15:59:41 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 15:59:51 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 16:00:32 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 16:01:05 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 16:01:08 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 16:01:30 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 16:01:57 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found
+2023-12-09 16:03:16 error: [GET] /api/v1/alumni/directory >> StatusCode:: 404, Message:: Alumni not  found

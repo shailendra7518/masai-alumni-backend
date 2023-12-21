@@ -1,0 +1,40 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "G:\\Internship\\masai-alumni\\apps\\server\\src\\logs\\debug\\.da488c6dbaa0dc11486e934fd1798fde8744ea95-audit.json",
+    "files": [
+        {
+            "date": 1701326795080,
+            "name": "G:\\Internship\\masai-alumni\\apps\\server\\src\\logs\\debug\\2023-11-30.log",
+            "hash": "f7c212a554af2847b52672c3fe57ad9d6b27de7e4d91aa907ca7c34640b08813"
+        },
+        {
+            "date": 1701375220571,
+            "name": "G:\\Internship\\masai-alumni\\apps\\server\\src\\logs\\debug\\2023-12-01.log",
+            "hash": "9691fad0ef6f4d99e00bf5668f49bafce0493cbedb9ffeade87335fc4747fd7b"
+        },
+        {
+            "date": 1701497416195,
+            "name": "G:\\Internship\\masai-alumni\\apps\\server\\src\\logs\\debug\\2023-12-02.log",
+            "hash": "b5633f98b9690cce37912ab007eca10cb428ce3b326c86bc5847e71f29c46c19"
+        },
+        {
+            "date": 1701778942970,
+            "name": "G:\\Internship\\masai-alumni\\apps\\server\\src\\logs\\debug\\2023-12-05.log",
+            "hash": "4ee1829e39476b340adbb801fa644a952bacb1c4c30511950c3dc4ee890cf55c"
+        },
+        {
+            "date": 1701844218454,
+            "name": "G:\\Internship\\masai-alumni\\apps\\server\\src\\logs\\debug\\2023-12-06.log",
+            "hash": "13b09dfb9000a6c856882621ba60fbebf45d032dbf92478a4b8a170316bd8c2c"
+        },
+        {
+            "date": 1701927460344,
+            "name": "G:\\Internship\\masai-alumni\\apps\\server\\src\\logs\\debug\\2023-12-07.log",
+            "hash": "a993c5d46f8bed09798014a03822e1600b13f451ee115493185d55ed9a7ce559"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,7 @@
+2023-12-18 13:24:38 error: [GET] /api/v1/mentors/1 >> StatusCode:: 500, Message:: Converting circular structure to JSON
+    --> starting at object with constructor 'Array'
+    |     index 0 -> object with constructor 'Object'
+    |     property 'parent' -> object with constructor 'Object'
+    --- property 'include' closes the circle
+2023-12-18 14:22:37 error: [GET] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to fetch mentors
+2023-12-18 14:22:39 error: [GET] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to fetch mentors

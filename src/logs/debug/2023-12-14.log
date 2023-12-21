@@ -1,0 +1,85 @@
+2023-12-14 12:33:51 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 12:33:54 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 12:44:52 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 12:44:54 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 12:45:19 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 12:45:20 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 12:45:21 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 13:08:32 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: WHERE parameter "user1Id" has invalid "undefined" value
+2023-12-14 13:12:52 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: WHERE parameter "user1Id" has invalid "undefined" value
+2023-12-14 13:28:46 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 13:28:48 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 13:29:17 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 13:29:18 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 13:32:44 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 13:32:47 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 13:35:00 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 13:35:12 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 13:35:14 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 13:35:15 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 13:36:11 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 13:37:04 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 13:37:06 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 13:37:31 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 13:37:33 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 13:37:34 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 13:37:44 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 13:37:45 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 13:37:46 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 13:37:57 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 13:37:58 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 13:37:59 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 13:38:12 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 13:38:13 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 13:38:14 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 13:40:07 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'length')
+2023-12-14 15:08:47 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 15:09:23 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 15:09:37 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Converting circular structure to JSON
+    --> starting at object with constructor 'Array'
+    |     index 0 -> object with constructor 'Object'
+    |     property 'parent' -> object with constructor 'Object'
+    --- property 'include' closes the circle
+2023-12-14 15:11:08 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 15:11:09 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-14 15:31:42 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Converting circular structure to JSON
+    --> starting at object with constructor 'Array'
+    |     index 0 -> object with constructor 'Object'
+    |     property 'parent' -> object with constructor 'Object'
+    --- property 'include' closes the circle
+2023-12-14 16:23:32 error: [GET] /api/v1/profiles/1 >> StatusCode:: 500, Message:: Error fetching profile
+2023-12-14 16:23:37 error: [GET] /api/v1/profiles/2 >> StatusCode:: 500, Message:: Error fetching profile
+2023-12-14 16:24:11 error: [GET] /api/v1/profiles/2 >> StatusCode:: 500, Message:: Error fetching profile
+2023-12-14 16:24:12 error: [GET] /api/v1/profiles/2 >> StatusCode:: 500, Message:: Error fetching profile
+2023-12-14 16:24:16 error: [GET] /api/v1/profiles/1 >> StatusCode:: 500, Message:: Error fetching profile
+2023-12-14 16:25:21 error: [GET] /api/v1/profiles/1 >> StatusCode:: 500, Message:: Error fetching profile
+2023-12-14 16:25:22 error: [GET] /api/v1/profiles/1 >> StatusCode:: 500, Message:: Error fetching profile
+2023-12-14 16:25:23 error: [GET] /api/v1/profiles/1 >> StatusCode:: 500, Message:: Error fetching profile
+2023-12-14 16:25:38 error: [GET] /api/v1/profiles/1 >> StatusCode:: 500, Message:: Error fetching profile
+2023-12-14 16:29:20 error: [GET] /api/v1/profiles/3 >> StatusCode:: 500, Message:: Converting circular structure to JSON
+    --> starting at object with constructor 'Array'
+    |     index 0 -> object with constructor 'Object'
+    |     property 'parent' -> object with constructor 'Object'
+    --- property 'include' closes the circle
+2023-12-14 16:29:22 error: [GET] /api/v1/profiles/3 >> StatusCode:: 500, Message:: Converting circular structure to JSON
+    --> starting at object with constructor 'Array'
+    |     index 0 -> object with constructor 'Object'
+    |     property 'parent' -> object with constructor 'Object'
+    --- property 'include' closes the circle
+2023-12-14 17:32:09 error: [GET] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to fetch mentors
+2023-12-14 17:32:12 error: [GET] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to fetch mentors
+2023-12-14 17:34:19 error: [GET] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to fetch mentors
+2023-12-14 17:35:55 error: [GET] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to fetch mentors
+2023-12-14 17:40:29 error: [GET] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to fetch mentors
+2023-12-14 17:45:13 error: [GET] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to fetch mentors
+2023-12-14 17:45:42 error: [GET] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to fetch mentors
+2023-12-14 17:45:43 error: [GET] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to fetch mentors
+2023-12-14 18:15:19 error: [POST] /api/v1/mentors/apply-for-mentorship >> StatusCode:: 500, Message:: Unable to apply for mentorship: Field 'user_id' doesn't have a default value
+2023-12-14 18:16:37 error: [POST] /api/v1/mentors/apply-for-mentorship >> StatusCode:: 500, Message:: Unable to apply for mentorship: Field 'user_id' doesn't have a default value
+2023-12-14 18:18:05 error: [POST] /api/v1/mentors/apply-for-mentorship >> StatusCode:: 500, Message:: Unable to apply for mentorship: Field 'user_id' doesn't have a default value
+2023-12-14 18:43:00 error: [POST] /api/v1/mentors/apply-for-mentorship >> StatusCode:: 500, Message:: Unable to apply for mentorship: Field 'user_id' doesn't have a default value
+2023-12-14 18:44:16 error: [POST] /api/v1/mentors/apply-for-mentorship >> StatusCode:: 500, Message:: Unable to apply for mentorship: Field 'user_id' doesn't have a default value
+2023-12-14 19:15:55 error: [GET] /api/v1/mentors/mentees-request/1 >> StatusCode:: 500, Message:: Error fething pending mentorship
+2023-12-14 19:15:57 error: [GET] /api/v1/mentors/mentees-request/1 >> StatusCode:: 500, Message:: Error fething pending mentorship
+2023-12-14 19:15:58 error: [GET] /api/v1/mentors/mentees-request/1 >> StatusCode:: 500, Message:: Error fething pending mentorship
+2023-12-14 19:16:49 error: [GET] /api/v1/mentors/mentees-request/1 >> StatusCode:: 500, Message:: Error fething pending mentorship

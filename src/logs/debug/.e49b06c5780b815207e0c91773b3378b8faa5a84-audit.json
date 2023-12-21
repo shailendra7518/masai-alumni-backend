@@ -1,0 +1,50 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\sman9\\OneDrive\\Desktop\\New folder\\alumni-test\\alum\\masai-alumni\\apps\\server\\src\\logs\\debug\\.e49b06c5780b815207e0c91773b3378b8faa5a84-audit.json",
+    "files": [
+        {
+            "date": 1701265215310,
+            "name": "C:\\Users\\sman9\\OneDrive\\Desktop\\New folder\\alumni-test\\alum\\masai-alumni\\apps\\server\\src\\logs\\debug\\2023-11-29.log",
+            "hash": "02324e25faf1f153d78ee8cfcc797a5cadbeb9b369131856ce42f5e51c74870b"
+        },
+        {
+            "date": 1701327598445,
+            "name": "C:\\Users\\sman9\\OneDrive\\Desktop\\New folder\\alumni-test\\alum\\masai-alumni\\apps\\server\\src\\logs\\debug\\2023-11-30.log",
+            "hash": "947acdd6305b9c8ce4fd634e08dc41cf7aee634e74c5b4affec9c5177cef5a1f"
+        },
+        {
+            "date": 1701869055713,
+            "name": "C:\\Users\\sman9\\OneDrive\\Desktop\\New folder\\alumni-test\\alum\\masai-alumni\\apps\\server\\src\\logs\\debug\\2023-12-06.log",
+            "hash": "df47fb8413335255aee06ade6fd0f016b764ccc9fe27a0f167d46e930e9c64a5"
+        },
+        {
+            "date": 1701938842138,
+            "name": "C:\\Users\\sman9\\OneDrive\\Desktop\\New folder\\alumni-test\\alum\\masai-alumni\\apps\\server\\src\\logs\\debug\\2023-12-07.log",
+            "hash": "32e4ec891985ea895cb32c97e9476b1e86c6ca8f66b7432261d103011a0a1030"
+        },
+        {
+            "date": 1702014887250,
+            "name": "C:\\Users\\sman9\\OneDrive\\Desktop\\New folder\\alumni-test\\alum\\masai-alumni\\apps\\server\\src\\logs\\debug\\2023-12-08.log",
+            "hash": "02d06cfb9da82731400c169331acbc6b466da8fcadc76c382b1a67538b9f0df8"
+        },
+        {
+            "date": 1702126559565,
+            "name": "C:\\Users\\sman9\\OneDrive\\Desktop\\New folder\\alumni-test\\alum\\masai-alumni\\apps\\server\\src\\logs\\debug\\2023-12-09.log",
+            "hash": "cbaa8ff1066b5a21170ca352f32e525a0a68174351e658d14562170e6730144c"
+        },
+        {
+            "date": 1702195664725,
+            "name": "C:\\Users\\sman9\\OneDrive\\Desktop\\New folder\\alumni-test\\alum\\masai-alumni\\apps\\server\\src\\logs\\debug\\2023-12-10.log",
+            "hash": "8fc71280b574ec196da9a6e5eb7e26eca9054049a4d56f852adbf8544dc70337"
+        },
+        {
+            "date": 1702266794213,
+            "name": "C:\\Users\\sman9\\OneDrive\\Desktop\\New folder\\alumni-test\\alum\\masai-alumni\\apps\\server\\src\\logs\\debug\\2023-12-11.log",
+            "hash": "e19bc3140868d7fa3fbe5cfd69a4c501c644d2c00834ef70e44e580e60b0a893"
+        }
+    ],
+    "hashType": "sha256"
+}

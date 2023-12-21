@@ -1,0 +1,90 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\Shailendra kumar\\Desktop\\masai-projects\\masai-alumni\\apps\\server\\src\\logs\\debug\\.4f6ac7823ecd2567712a6e2725f86a6e92c40442-audit.json",
+    "files": [
+        {
+            "date": 1701775775185,
+            "name": "C:\\Users\\Shailendra kumar\\Desktop\\masai-projects\\masai-alumni\\apps\\server\\src\\logs\\debug\\2023-12-05.log",
+            "hash": "8cfeff733d920431c0ec9d234ae4f89b32d4977016db0152cf15e91ba46299a2"
+        },
+        {
+            "date": 1701846706662,
+            "name": "C:\\Users\\Shailendra kumar\\Desktop\\masai-projects\\masai-alumni\\apps\\server\\src\\logs\\debug\\2023-12-06.log",
+            "hash": "631c33a979ed9bd1d6fea778afbaedb880bfb7db526a2f5476472c32ff8f0789"
+        },
+        {
+            "date": 1701887434179,
+            "name": "C:\\Users\\Shailendra kumar\\Desktop\\masai-projects\\masai-alumni\\apps\\server\\src\\logs\\debug\\2023-12-07.log",
+            "hash": "5c7712f583bb2821d8a16b9a5b673608b5b23fe80b18b0d0a0cab3aceee4a62d"
+        },
+        {
+            "date": 1701974547043,
+            "name": "C:\\Users\\Shailendra kumar\\Desktop\\masai-projects\\masai-alumni\\apps\\server\\src\\logs\\debug\\2023-12-08.log",
+            "hash": "f7bf74123f92009b9d4e631437dc3674b10f917a524fe56da0ac4a1376613b10"
+        },
+        {
+            "date": 1702060201979,
+            "name": "C:\\Users\\Shailendra kumar\\Desktop\\masai-projects\\masai-alumni\\apps\\server\\src\\logs\\debug\\2023-12-09.log",
+            "hash": "9aef93b0349e245ff8ea2906942efb39d2f2dd6ebfcb1b8db95a88b37b584034"
+        },
+        {
+            "date": 1702199443691,
+            "name": "C:\\Users\\Shailendra kumar\\Desktop\\masai-projects\\masai-alumni\\apps\\server\\src\\logs\\debug\\2023-12-10.log",
+            "hash": "b788a1704eb0a1031d2f5a8954e44acf204350ac1f6d158289471c35b1873027"
+        },
+        {
+            "date": 1702278471489,
+            "name": "C:\\Users\\Shailendra kumar\\Desktop\\masai-projects\\masai-alumni\\apps\\server\\src\\logs\\debug\\2023-12-11.log",
+            "hash": "7dce57114b0904d22c59e84b6df987d06a7f3690791395d31839a3255ff5da7e"
+        },
+        {
+            "date": 1702365768938,
+            "name": "C:\\Users\\Shailendra kumar\\Desktop\\masai-projects\\masai-alumni\\apps\\server\\src\\logs\\debug\\2023-12-12.log",
+            "hash": "5fc2bc3108341c98caf4f4547429d9df2b2637f58133ba3a12b3cea64c291cfa"
+        },
+        {
+            "date": 1702449982082,
+            "name": "C:\\Users\\Shailendra kumar\\Desktop\\masai-projects\\masai-alumni\\apps\\server\\src\\logs\\debug\\2023-12-13.log",
+            "hash": "5fe31bac7d946fa77cb97a489f5aa2d78130651dd512258dd0f7d0303f3605ef"
+        },
+        {
+            "date": 1702534559562,
+            "name": "C:\\Users\\Shailendra kumar\\Desktop\\masai-projects\\masai-alumni\\apps\\server\\src\\logs\\debug\\2023-12-14.log",
+            "hash": "de406bbbdfd05491097d2098c08ab3eb80f0bc633099771e536d1d487ac4e99b"
+        },
+        {
+            "date": 1702625357118,
+            "name": "C:\\Users\\Shailendra kumar\\Desktop\\masai-projects\\masai-alumni\\apps\\server\\src\\logs\\debug\\2023-12-15.log",
+            "hash": "f25399e8864c681feee23209e3a95eca103549e0130a4fc19413360fdc350d85"
+        },
+        {
+            "date": 1702665142272,
+            "name": "C:\\Users\\Shailendra kumar\\Desktop\\masai-projects\\masai-alumni\\apps\\server\\src\\logs\\debug\\2023-12-16.log",
+            "hash": "ed7cff011989343c1c0f5ad0c87ba8b70411f7173fe6b12e7cc22d585f6e685c"
+        },
+        {
+            "date": 1702883346054,
+            "name": "C:\\Users\\Shailendra kumar\\Desktop\\masai-projects\\masai-alumni\\apps\\server\\src\\logs\\debug\\2023-12-18.log",
+            "hash": "742ebde85c022b255e39e567dbe12cbd5089a9ddc40d63b3f2df7217d912aed3"
+        },
+        {
+            "date": 1702971296057,
+            "name": "C:\\Users\\Shailendra kumar\\Desktop\\masai-projects\\masai-alumni\\apps\\server\\src\\logs\\debug\\2023-12-19.log",
+            "hash": "82d3ac5f1e9f21f31d685e49ada8cae6c470092bcb2ade5ed3cb643e96377b02"
+        },
+        {
+            "date": 1703051123905,
+            "name": "C:\\Users\\Shailendra kumar\\Desktop\\masai-projects\\masai-alumni\\apps\\server\\src\\logs\\debug\\2023-12-20.log",
+            "hash": "8755a7e8d62671b319835cef6cd0cc6df8e24a83e2415facd64f1a8209db5601"
+        },
+        {
+            "date": 1703134910195,
+            "name": "C:\\Users\\Shailendra kumar\\Desktop\\masai-projects\\masai-alumni\\apps\\server\\src\\logs\\debug\\2023-12-21.log",
+            "hash": "a07d7147250cd66b3221625f72ee14ec2e7acec7c7524868ccd0f06e41b38da7"
+        }
+    ],
+    "hashType": "sha256"
+}

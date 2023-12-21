@@ -1,0 +1,4 @@
+2023-12-13 13:13:29 error: [PATCH] /api/v1/profiles/3 >> StatusCode:: 404, Message:: Profile not found
+2023-12-13 13:13:39 error: [PATCH] /api/v1/profiles/1 >> StatusCode:: 500, Message:: Unable to update profile
+2023-12-13 13:20:02 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-13 13:20:34 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile

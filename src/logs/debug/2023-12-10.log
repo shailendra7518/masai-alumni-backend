@@ -1,0 +1,20 @@
+2023-12-10 17:37:32 error: [POST] /api/v1/events >> StatusCode:: 500, Message:: Unable to create Event
+2023-12-10 17:38:20 error: [POST] /api/v1/events >> StatusCode:: 500, Message:: Unable to create Event
+2023-12-10 17:57:30 error: [GET] /api/v1/events >> StatusCode:: 500, Message:: Unable to fetch events
+2023-12-10 17:57:33 error: [GET] /api/v1/events >> StatusCode:: 500, Message:: Unable to fetch events
+2023-12-10 17:57:57 error: [GET] /api/v1/events >> StatusCode:: 500, Message:: Unable to fetch events
+2023-12-10 17:58:10 error: [GET] /api/v1/events >> StatusCode:: 500, Message:: Unable to fetch events
+2023-12-10 17:58:25 error: [GET] /api/v1/events >> StatusCode:: 500, Message:: Unable to fetch events
+2023-12-10 17:58:26 error: [GET] /api/v1/events >> StatusCode:: 500, Message:: Unable to fetch events
+2023-12-10 18:00:28 error: [GET] /api/v1/events >> StatusCode:: 500, Message:: Unable to fetch events
+2023-12-10 18:05:04 error: [GET] /api/v1/events/5 >> StatusCode:: 500, Message:: Error fetching event
+2023-12-10 18:05:10 error: [GET] /api/v1/events/4 >> StatusCode:: 500, Message:: Error fetching event
+2023-12-10 18:05:54 error: [GET] /api/v1/events/4 >> StatusCode:: 500, Message:: Error fetching event
+2023-12-10 18:07:36 error: [GET] /api/v1/events/4 >> StatusCode:: 500, Message:: Error fetching event
+2023-12-10 18:07:47 error: [GET] /api/v1/events/4 >> StatusCode:: 500, Message:: Error fetching event
+2023-12-10 18:09:31 error: [GET] /api/v1/events/4 >> StatusCode:: 500, Message:: Error fetching event
+2023-12-10 18:09:33 error: [GET] /api/v1/events/4 >> StatusCode:: 500, Message:: Error fetching event
+2023-12-10 18:09:34 error: [GET] /api/v1/events/4 >> StatusCode:: 500, Message:: Error fetching event
+2023-12-10 18:09:38 error: [GET] /api/v1/events/1 >> StatusCode:: 500, Message:: Error fetching event
+2023-12-10 18:09:42 error: [GET] /api/v1/events/5 >> StatusCode:: 500, Message:: Error fetching event
+2023-12-10 18:24:06 error: [GET] /api/v1/events >> StatusCode:: 500, Message:: Unable to fetch events

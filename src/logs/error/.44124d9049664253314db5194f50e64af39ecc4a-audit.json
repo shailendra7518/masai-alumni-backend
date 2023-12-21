@@ -1,0 +1,40 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "G:\\Internship\\masai-alumni\\apps\\server\\src\\logs\\error\\.44124d9049664253314db5194f50e64af39ecc4a-audit.json",
+    "files": [
+        {
+            "date": 1701326795087,
+            "name": "G:\\Internship\\masai-alumni\\apps\\server\\src\\logs\\error\\2023-11-30.log",
+            "hash": "b9bf2427eaff725dd726a83af55b52ec4c7614887279a73f817c1d885760bf5d"
+        },
+        {
+            "date": 1701375220580,
+            "name": "G:\\Internship\\masai-alumni\\apps\\server\\src\\logs\\error\\2023-12-01.log",
+            "hash": "223dbbebc3c603c26a01f7951ace3cab87f7018b5e13261bee7f5b605c079ad9"
+        },
+        {
+            "date": 1701497416699,
+            "name": "G:\\Internship\\masai-alumni\\apps\\server\\src\\logs\\error\\2023-12-02.log",
+            "hash": "70eb3642655064fbf001db76bfa7998b6b1f52df42d03e77e5fa920e62e05af8"
+        },
+        {
+            "date": 1701778943106,
+            "name": "G:\\Internship\\masai-alumni\\apps\\server\\src\\logs\\error\\2023-12-05.log",
+            "hash": "9ac8b547b6ad672fbbbe8544224dc3a63f550919b3ded8c22676aa9819b65838"
+        },
+        {
+            "date": 1701844218535,
+            "name": "G:\\Internship\\masai-alumni\\apps\\server\\src\\logs\\error\\2023-12-06.log",
+            "hash": "e655b79b827e4eaca4d7e8b452439f6e5cee07dedc755f17dcaddec9b110f9bf"
+        },
+        {
+            "date": 1701927460415,
+            "name": "G:\\Internship\\masai-alumni\\apps\\server\\src\\logs\\error\\2023-12-07.log",
+            "hash": "c3f0c8db1a0f65cdb762f63f865ffad374eb393afaa437cdbdc7bab14c3132dd"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,62 @@
+2023-12-08 00:15:32 error: [PATCH] /api/v1/profiles/1 >> StatusCode:: 404, Message:: Profile not found
+2023-12-08 00:18:14 error: [PATCH] /api/v1/profiles/1 >> StatusCode:: 404, Message:: Profile not found
+2023-12-08 00:26:58 error: [PATCH] /api/v1/profiles/1 >> StatusCode:: 500, Message:: (intermediate value) is not iterable
+2023-12-08 00:32:56 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 00:34:06 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 00:34:09 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 00:35:41 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 00:36:01 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 00:36:03 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 00:36:05 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 00:36:18 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 00:36:19 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 00:36:20 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 00:36:32 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 00:36:34 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 00:37:09 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 01:06:15 error: [PATCH] /api/v1/profiles/3 >> StatusCode:: 404, Message:: User or Profile not found
+2023-12-08 01:09:21 error: [PATCH] /api/v1/profiles/2 >> StatusCode:: 404, Message:: User or Profile not found
+2023-12-08 01:11:39 error: [PATCH] /api/v1/profiles/2 >> StatusCode:: 404, Message:: User or Profile not found
+2023-12-08 01:12:28 error: [PATCH] /api/v1/profiles/2 >> StatusCode:: 404, Message:: User or Profile not found
+2023-12-08 01:13:52 error: [PATCH] /api/v1/profiles/2 >> StatusCode:: 404, Message:: User or Profile not found
+2023-12-08 01:17:15 error: [PATCH] /api/v1/profiles/2 >> StatusCode:: 404, Message:: Profile not found
+2023-12-08 01:17:27 error: [PATCH] /api/v1/profiles/3 >> StatusCode:: 404, Message:: Profile not found
+2023-12-08 01:17:35 error: [PATCH] /api/v1/profiles/3 >> StatusCode:: 404, Message:: Profile not found
+2023-12-08 01:17:46 error: [PATCH] /api/v1/profiles/1 >> StatusCode:: 404, Message:: Error updating profile and user
+2023-12-08 01:18:09 error: [PATCH] /api/v1/profiles/1 >> StatusCode:: 404, Message:: Error updating profile and user
+2023-12-08 01:18:18 error: [PATCH] /api/v1/profiles/1 >> StatusCode:: 404, Message:: Error updating profile and user
+2023-12-08 01:20:29 error: [PATCH] /api/v1/profiles/1 >> StatusCode:: 404, Message:: Error updating profile and user
+2023-12-08 10:13:35 error: [GET] /api/v1/profiles/1 >> StatusCode:: 404, Message:: Profile not found
+2023-12-08 10:13:47 error: [GET] /api/v1/profiles/1 >> StatusCode:: 404, Message:: Profile not found
+2023-12-08 10:13:52 error: [GET] /api/v1/profiles/1 >> StatusCode:: 404, Message:: Profile not found
+2023-12-08 10:18:36 error: [GET] /api/v1/profiles/1 >> StatusCode:: 404, Message:: Profile not found
+2023-12-08 10:22:42 error: [GET] /api/v1/profiles/user >> StatusCode:: 500, Message:: Error fetching profile
+2023-12-08 10:23:53 error: [GET] /api/v1/profiles/1 >> StatusCode:: 404, Message:: Profile not found
+2023-12-08 10:23:57 error: [GET] /api/v1/profiles/user >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 10:24:10 error: [GET] /api/v1/profiles/user >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 10:24:12 error: [GET] /api/v1/profiles/user >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 16:51:23 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 16:54:09 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 16:55:18 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 16:56:11 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 16:57:30 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 16:57:55 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 16:58:31 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 16:59:15 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 16:59:20 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 16:59:44 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 17:00:00 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 17:00:03 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 17:00:04 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 17:00:05 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 17:00:06 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 17:00:16 error: [GET] /api/v1/profiles/1 >> StatusCode:: 500, Message:: Error fetching profile
+2023-12-08 17:00:20 error: [GET] /api/v1/profiles/user >> StatusCode:: 500, Message:: Error fetching profile
+2023-12-08 17:00:26 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 17:00:52 error: [GET] /api/v1/profiles/user >> StatusCode:: 500, Message:: Error fetching profile
+2023-12-08 17:00:57 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 17:08:23 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 17:14:25 error: [POST] /api/v1/profiles >> StatusCode:: 500, Message:: Unable to create profile
+2023-12-08 17:14:36 error: [GET] /api/v1/profiles/user >> StatusCode:: 500, Message:: Error fetching profile
+2023-12-08 17:18:21 error: [GET] /api/v1/profiles/user >> StatusCode:: 500, Message:: Error fetching profile
+2023-12-08 17:18:59 error: [GET] /api/v1/profiles/user >> StatusCode:: 500, Message:: Error fetching profile

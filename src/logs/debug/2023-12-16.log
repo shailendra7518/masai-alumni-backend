@@ -1,0 +1,41 @@
+2023-12-16 00:02:22 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:02:45 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:04:51 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:06:31 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:06:33 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:06:34 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:09:15 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:09:16 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:09:17 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:11:05 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:11:06 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:11:07 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:14:06 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:14:08 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:14:54 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:18:01 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:18:02 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:19:38 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:19:39 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:19:40 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:21:50 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:21:51 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:25:55 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:25:56 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:30:40 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:30:42 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:30:43 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:30:44 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:30:45 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:30:45 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:30:46 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:30:47 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:30:48 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:30:49 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 00:31:36 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 01:36:51 error: [GET] /api/v1/users/me >> StatusCode:: 500, Message:: Unknown database 'alumini_test'
+2023-12-16 01:46:41 error: [GET] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to fetch mentors
+2023-12-16 01:46:43 error: [GET] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to fetch mentors
+2023-12-16 01:46:44 error: [GET] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to fetch mentors
+2023-12-16 15:31:14 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.
+2023-12-16 15:32:25 error: [POST] /api/v1/mentors >> StatusCode:: 500, Message:: Unable to create mentor. Please check your input data.

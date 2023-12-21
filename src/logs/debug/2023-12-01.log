@@ -1,0 +1,15 @@
+2023-12-01 19:03:54 error: [GET] /api/v1/jobs >> StatusCode:: 500, Message:: Unable to fetch jobs
+2023-12-01 19:06:46 error: [GET] /api/v1/jobs >> StatusCode:: 500, Message:: Unable to fetch jobs
+2023-12-01 19:11:40 error: [GET] /api/v1/jobs >> StatusCode:: 500, Message:: Unable to fetch jobs
+2023-12-01 19:14:13 error: [GET] /api/v1/jobs >> StatusCode:: 500, Message:: Unable to fetch jobs
+2023-12-01 19:21:02 error: [GET] /api/v1/jobs >> StatusCode:: 500, Message:: Unable to fetch jobs
+2023-12-01 19:23:40 error: [GET] /api/v1/jobs >> StatusCode:: 500, Message:: Unable to fetch jobs
+2023-12-01 19:29:53 error: [GET] /api/v1/jobs/1 >> StatusCode:: 404, Message:: Job not found
+2023-12-01 19:30:00 error: [GET] /api/v1/jobs >> StatusCode:: 500, Message:: Unable to fetch jobs
+2023-12-01 19:30:16 error: [GET] /api/v1/jobs >> StatusCode:: 500, Message:: Unable to fetch jobs
+2023-12-01 19:31:53 error: [GET] /api/v1/jobs >> StatusCode:: 500, Message:: Unable to fetch jobs
+2023-12-01 19:32:14 error: [GET] /api/v1/jobs >> StatusCode:: 500, Message:: Unable to fetch jobs
+2023-12-01 19:33:35 error: [GET] /api/v1/jobs >> StatusCode:: 500, Message:: Unable to fetch jobs
+2023-12-01 19:36:06 error: [GET] /api/v1/jobs >> StatusCode:: 500, Message:: Unable to fetch jobs
+2023-12-01 19:36:58 error: [GET] /api/v1/jobs >> StatusCode:: 500, Message:: Unable to fetch jobs
+2023-12-01 19:37:00 error: [GET] /api/v1/jobs >> StatusCode:: 500, Message:: Unable to fetch jobs

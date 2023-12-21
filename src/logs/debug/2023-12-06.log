@@ -1,0 +1,20 @@
+2023-12-06 22:21:59 error: [GET] /api/v1/polls/user >> StatusCode:: 500, Message:: Error fetching poll
+2023-12-06 22:22:02 error: [GET] /api/v1/polls/user >> StatusCode:: 500, Message:: Error fetching poll
+2023-12-06 22:23:17 error: [GET] /api/v1/polls/user >> StatusCode:: 500, Message:: Error fetching poll
+2023-12-06 22:25:00 error: [GET] /api/v1/polls/user >> StatusCode:: 500, Message:: Error fetching poll
+2023-12-06 22:25:54 error: [GET] /api/v1/polls/user >> StatusCode:: 500, Message:: Error fetching poll
+2023-12-06 22:26:42 error: [GET] /api/v1/polls/user >> StatusCode:: 500, Message:: Error fetching poll
+2023-12-06 22:27:41 error: [GET] /api/v1/polls/user >> StatusCode:: 500, Message:: Error fetching poll
+2023-12-06 22:28:04 error: [GET] /api/v1/polls/user >> StatusCode:: 500, Message:: Error fetching poll
+2023-12-06 22:29:43 error: [GET] /api/v1/polls/user >> StatusCode:: 500, Message:: Error fetching poll
+2023-12-06 22:30:19 error: [GET] /api/v1/polls/user >> StatusCode:: 500, Message:: Error fetching poll
+2023-12-06 22:30:52 error: [GET] /api/v1/polls/user >> StatusCode:: 500, Message:: Error fetching poll
+2023-12-06 22:31:40 error: [GET] /api/v1/polls/user >> StatusCode:: 500, Message:: Error fetching poll
+2023-12-06 22:52:49 error: [GET] /api/v1/polls/2 >> StatusCode:: 500, Message:: Cannot read properties of null (reading 'toJSON')
+2023-12-06 22:53:28 error: [GET] /api/v1/polls/5 >> StatusCode:: 500, Message:: Cannot read properties of null (reading 'toJSON')
+2023-12-06 22:57:02 error: [POST] /api/v1/polls >> StatusCode:: 500, Message:: Unable to create Poll with Questions and Options
+2023-12-06 22:57:17 error: [POST] /api/v1/polls >> StatusCode:: 500, Message:: Unable to create Poll with Questions and Options
+2023-12-06 23:02:49 error: [POST] /api/v1/polls >> StatusCode:: 500, Message:: Unable to create Poll with Questions and Options
+2023-12-06 23:03:05 error: [POST] /api/v1/polls >> StatusCode:: 500, Message:: Unable to create Poll with Questions and Options
+2023-12-06 23:03:08 error: [POST] /api/v1/polls >> StatusCode:: 500, Message:: Unable to create Poll with Questions and Options
+2023-12-06 23:03:11 error: [POST] /api/v1/polls >> StatusCode:: 500, Message:: Unable to create Poll with Questions and Options

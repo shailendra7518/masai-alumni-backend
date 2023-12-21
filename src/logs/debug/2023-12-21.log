@@ -1,0 +1,1 @@
+2023-12-21 11:10:35 error: [DELETE] /api/v1/jobs/2 >> StatusCode:: 403, Message:: You are not authorized to delete this job

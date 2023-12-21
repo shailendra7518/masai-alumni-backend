@@ -1,0 +1,90 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\Sheelu Kumar\\Desktop\\masai-alumni\\apps\\server\\src\\logs\\error\\.fb3b25b22638203dc174ec8ab4bf7e6c7eb5c0a5-audit.json",
+    "files": [
+        {
+            "date": 1701254122193,
+            "name": "C:\\Users\\Sheelu Kumar\\Desktop\\masai-alumni\\apps\\server\\src\\logs\\error\\2023-11-29.log",
+            "hash": "e8927f9536944df698695f8a938620f254e23c9aabd2773473269531d10b3933"
+        },
+        {
+            "date": 1701317552541,
+            "name": "C:\\Users\\Sheelu Kumar\\Desktop\\masai-alumni\\apps\\server\\src\\logs\\error\\2023-11-30.log",
+            "hash": "267c7c81fdadd9d84756788ccfb098231a7e2fda3d65433c87c76138c1f7788f"
+        },
+        {
+            "date": 1701419075859,
+            "name": "C:\\Users\\Sheelu Kumar\\Desktop\\masai-alumni\\apps\\server\\src\\logs\\error\\2023-12-01.log",
+            "hash": "ac218e4313c7855491df30cb422b75d5daea76c890c01ed20547c087a0a6c257"
+        },
+        {
+            "date": 1701670827992,
+            "name": "C:\\Users\\Sheelu Kumar\\Desktop\\masai-alumni\\apps\\server\\src\\logs\\error\\2023-12-04.log",
+            "hash": "1767eb5c534f8e493f16183e0db2868669387544c12e75ba3f72632675667dac"
+        },
+        {
+            "date": 1701769027837,
+            "name": "C:\\Users\\Sheelu Kumar\\Desktop\\masai-alumni\\apps\\server\\src\\logs\\error\\2023-12-05.log",
+            "hash": "02fb9ecc52f36df0ee50d7479708bf0fd0b6908f2fb98762f3777e27ab3b284c"
+        },
+        {
+            "date": 1701846351670,
+            "name": "C:\\Users\\Sheelu Kumar\\Desktop\\masai-alumni\\apps\\server\\src\\logs\\error\\2023-12-06.log",
+            "hash": "718b77247da3c7f5152a5890a0e1d25c0d6e7bf2befde8612370cdf872e4409c"
+        },
+        {
+            "date": 1701929115815,
+            "name": "C:\\Users\\Sheelu Kumar\\Desktop\\masai-alumni\\apps\\server\\src\\logs\\error\\2023-12-07.log",
+            "hash": "11bedd0d268c65ebc08ff3a80c78560c03e7905f1c9536d76ddcd4a65261883c"
+        },
+        {
+            "date": 1701974995538,
+            "name": "C:\\Users\\Sheelu Kumar\\Desktop\\masai-alumni\\apps\\server\\src\\logs\\error\\2023-12-08.log",
+            "hash": "667a20f4917eb925b2f3b01e559266da5b887ae33c398bf0f47316305812f5f6"
+        },
+        {
+            "date": 1702106655289,
+            "name": "C:\\Users\\Sheelu Kumar\\Desktop\\masai-alumni\\apps\\server\\src\\logs\\error\\2023-12-09.log",
+            "hash": "147cea6efced80a3b65038b3c77c7c2c02973ab49436952ca6a754e6e3745c83"
+        },
+        {
+            "date": 1702272119926,
+            "name": "C:\\Users\\Sheelu Kumar\\Desktop\\masai-alumni\\apps\\server\\src\\logs\\error\\2023-12-11.log",
+            "hash": "35bb02063a83527e4b6cb90096b0976c42b9f8e708294a02146ebe8cf2c99fb0"
+        },
+        {
+            "date": 1702319400483,
+            "name": "C:\\Users\\Sheelu Kumar\\Desktop\\masai-alumni\\apps\\server\\src\\logs\\error\\2023-12-12.log",
+            "hash": "0aecc8a6b78cccb6e33b9cccb5554fac1ab7e3c2d7daf88180389d25a2c2f8bf"
+        },
+        {
+            "date": 1702452146421,
+            "name": "C:\\Users\\Sheelu Kumar\\Desktop\\masai-alumni\\apps\\server\\src\\logs\\error\\2023-12-13.log",
+            "hash": "0cd442830ea7b765cb51a049f448ddeaed2d2546f4021d4a908a9a9c9e7802d9"
+        },
+        {
+            "date": 1702625998607,
+            "name": "C:\\Users\\Sheelu Kumar\\Desktop\\masai-alumni\\apps\\server\\src\\logs\\error\\2023-12-15.log",
+            "hash": "de85ab8877e606ffbf202cd6b75616a6f01cb79cd27e76da6493a74330759d71"
+        },
+        {
+            "date": 1702900136075,
+            "name": "C:\\Users\\Sheelu Kumar\\Desktop\\masai-alumni\\apps\\server\\src\\logs\\error\\2023-12-18.log",
+            "hash": "7d264f94930384e3409d1b3a39073a13376dee0315ee64ad6766302c0be9671a"
+        },
+        {
+            "date": 1702963940436,
+            "name": "C:\\Users\\Sheelu Kumar\\Desktop\\masai-alumni\\apps\\server\\src\\logs\\error\\2023-12-19.log",
+            "hash": "71263252032977b47988bf3f31cb102315d57b4a6113bff7ec6cdf42cc33e619"
+        },
+        {
+            "date": 1703046732844,
+            "name": "C:\\Users\\Sheelu Kumar\\Desktop\\masai-alumni\\apps\\server\\src\\logs\\error\\2023-12-20.log",
+            "hash": "d73855163c2ea0601c85cc9b2f7a387a9bf5766f50a23c8b491a21b38e537224"
+        }
+    ],
+    "hashType": "sha256"
+}

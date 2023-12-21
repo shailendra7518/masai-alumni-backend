@@ -1,0 +1,504 @@
+2023-12-13 13:13:29 error: [PATCH] /api/v1/profiles/3 >> StatusCode:: 404, Message:: Profile not found
+2023-12-13 13:13:39 error: [PATCH] /api/v1/profiles/1 >> StatusCode:: 500, Message:: Unable to update profile
+2023-12-13 13:20:02 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-13 13:20:34 error: [GET] /api/v1/alumni/directory >> StatusCode:: 500, Message:: Error fething profile
+2023-12-13 14:34:43 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/mentor.service.ts(26,5): error TS1109: Expression expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/services/mentor.service.ts(26,5): error TS1109: Expression expected.
+
+    at createTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:863:19)
+    at C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2023-12-13 14:38:20 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/mentor.service.ts(182,5): error TS1109: Expression expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/services/mentor.service.ts(182,5): error TS1109: Expression expected.
+
+    at createTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:863:19)
+    at C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2023-12-13 14:38:45 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/mentor.service.ts(192,4): error TS1109: Expression expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/services/mentor.service.ts(192,4): error TS1109: Expression expected.
+
+    at createTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:863:19)
+    at C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2023-12-13 14:38:48 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/mentor.service.ts(192,4): error TS1109: Expression expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/services/mentor.service.ts(192,4): error TS1109: Expression expected.
+
+    at createTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:863:19)
+    at C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2023-12-13 14:39:15 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/mentor.service.ts(211,30): error TS1005: ',' expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/services/mentor.service.ts(211,30): error TS1005: ',' expected.
+
+    at createTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:863:19)
+    at C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2023-12-13 14:45:51 error: uncaughtException: Cannot find module './../../../web/src/pages/News'
+Require stack:
+- C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\controllers\mentor.controller.ts
+- C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\mentor.route.ts
+- C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\index.routes.ts
+- C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\server.ts
+Error: Cannot find module './../../../web/src/pages/News'
+Require stack:
+- C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\controllers\mentor.controller.ts
+- C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\mentor.route.ts
+- C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\index.routes.ts
+- C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\@cspotcode+source-map-support@0.8.1\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\tsconfig-paths@4.2.0\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\controllers\mentor.controller.ts:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2023-12-13 14:46:00 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/mentor.controller.ts(38,14): error TS1109: Expression expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/mentor.controller.ts(38,14): error TS1109: Expression expected.
+
+    at createTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:863:19)
+    at C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2023-12-13 14:49:09 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/mentor.controller.ts(33,2): error TS1110: Type expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/mentor.controller.ts(33,2): error TS1110: Type expected.
+
+    at createTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:863:19)
+    at C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2023-12-13 14:49:29 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/mentor.controller.ts(42,14): error TS1109: Expression expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/mentor.controller.ts(42,14): error TS1109: Expression expected.
+
+    at createTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:863:19)
+    at C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2023-12-13 14:55:45 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/mentor.controller.ts(50,65): error TS1110: Type expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/mentor.controller.ts(50,65): error TS1110: Type expected.
+
+    at createTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:863:19)
+    at C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2023-12-13 14:56:00 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/mentor.controller.ts(71,34): error TS1005: ')' expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/mentor.controller.ts(71,34): error TS1005: ')' expected.
+
+    at createTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:863:19)
+    at C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2023-12-13 14:58:32 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/mentor.controller.ts(82,2): error TS1110: Type expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/mentor.controller.ts(82,2): error TS1110: Type expected.
+
+    at createTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:863:19)
+    at C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2023-12-13 15:01:40 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/mentor.controller.ts(93,36): error TS1005: ')' expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/mentor.controller.ts(93,36): error TS1005: ')' expected.
+
+    at createTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:863:19)
+    at C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2023-12-13 15:01:45 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/mentor.controller.ts(93,21): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+src/controllers/mentor.controller.ts(93,41): error TS1005: ')' expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/mentor.controller.ts(93,21): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+src/controllers/mentor.controller.ts(93,41): error TS1005: ')' expected.
+
+    at createTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:863:19)
+    at C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2023-12-13 15:06:50 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/mentor.controller.ts(159,2): error TS1110: Type expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/mentor.controller.ts(159,2): error TS1110: Type expected.
+
+    at createTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:863:19)
+    at C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2023-12-13 15:15:23 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/mentee.service.ts(47,31): error TS1005: ',' expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/services/mentee.service.ts(47,31): error TS1005: ',' expected.
+
+    at createTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:863:19)
+    at C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2023-12-13 15:16:16 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/mentee.controller.ts(10,65): error TS1110: Type expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/mentee.controller.ts(10,65): error TS1110: Type expected.
+
+    at createTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:863:19)
+    at C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2023-12-13 15:17:17 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/mentee.controller.ts(18,56): error TS1005: ')' expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/mentee.controller.ts(18,56): error TS1005: ')' expected.
+
+    at createTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:863:19)
+    at C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2023-12-13 15:27:11 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/mentee.controller.ts(57,17): error TS1109: Expression expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/mentee.controller.ts(57,17): error TS1109: Expression expected.
+
+    at createTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:863:19)
+    at C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2023-12-13 15:27:13 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/mentee.controller.ts(57,18): error TS1109: Expression expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/mentee.controller.ts(57,18): error TS1109: Expression expected.
+
+    at createTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:863:19)
+    at C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2023-12-13 18:51:17 error: uncaughtException: Route.put() requires a callback function but got a [object Undefined]
+Error: Route.put() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as put] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as put] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at MentorRoutes.initializeRoutes (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\mentor.route.ts:20:17)
+    at new MentorRoutes (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\mentor.route.ts:12:10)
+    at Object.<anonymous> (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\index.routes.ts:29:2)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+2023-12-13 18:51:22 error: uncaughtException: Route.put() requires a callback function but got a [object Undefined]
+Error: Route.put() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as put] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as put] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at MentorRoutes.initializeRoutes (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\mentor.route.ts:20:17)
+    at new MentorRoutes (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\mentor.route.ts:12:10)
+    at Object.<anonymous> (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\index.routes.ts:29:2)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+2023-12-13 18:51:54 error: uncaughtException: Route.put() requires a callback function but got a [object Undefined]
+Error: Route.put() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as put] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as put] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at MentorRoutes.initializeRoutes (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\mentor.route.ts:20:17)
+    at new MentorRoutes (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\mentor.route.ts:12:10)
+    at Object.<anonymous> (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\index.routes.ts:29:2)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+2023-12-13 18:52:07 error: uncaughtException: Route.put() requires a callback function but got a [object Undefined]
+Error: Route.put() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as put] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as put] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at MentorRoutes.initializeRoutes (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\mentor.route.ts:20:17)
+    at new MentorRoutes (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\mentor.route.ts:12:10)
+    at Object.<anonymous> (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\index.routes.ts:29:2)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+2023-12-13 18:52:09 error: uncaughtException: Route.put() requires a callback function but got a [object Undefined]
+Error: Route.put() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as put] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as put] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at MentorRoutes.initializeRoutes (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\mentor.route.ts:20:17)
+    at new MentorRoutes (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\mentor.route.ts:12:10)
+    at Object.<anonymous> (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\index.routes.ts:29:2)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+2023-12-13 18:52:19 error: uncaughtException: Route.put() requires a callback function but got a [object Undefined]
+Error: Route.put() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as put] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as put] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at MentorRoutes.initializeRoutes (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\mentor.route.ts:20:17)
+    at new MentorRoutes (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\mentor.route.ts:12:10)
+    at Object.<anonymous> (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\index.routes.ts:29:2)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+2023-12-13 18:52:23 error: uncaughtException: Route.put() requires a callback function but got a [object Undefined]
+Error: Route.put() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as put] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as put] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at MentorRoutes.initializeRoutes (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\mentor.route.ts:20:17)
+    at new MentorRoutes (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\mentor.route.ts:12:10)
+    at Object.<anonymous> (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\index.routes.ts:29:2)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+2023-12-13 18:52:58 error: uncaughtException: Route.put() requires a callback function but got a [object Undefined]
+Error: Route.put() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as put] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as put] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at MentorRoutes.initializeRoutes (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\mentor.route.ts:20:17)
+    at new MentorRoutes (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\mentor.route.ts:12:10)
+    at Object.<anonymous> (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\index.routes.ts:29:2)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+2023-12-13 18:53:41 error: uncaughtException: Route.put() requires a callback function but got a [object Undefined]
+Error: Route.put() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as put] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as put] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at MentorRoutes.initializeRoutes (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\mentor.route.ts:20:17)
+    at new MentorRoutes (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\mentor.route.ts:12:10)
+    at Object.<anonymous> (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\index.routes.ts:29:2)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+2023-12-13 18:53:58 error: uncaughtException: Route.put() requires a callback function but got a [object Undefined]
+Error: Route.put() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as put] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as put] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at MentorRoutes.initializeRoutes (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\mentor.route.ts:20:17)
+    at new MentorRoutes (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\mentor.route.ts:12:10)
+    at Object.<anonymous> (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\index.routes.ts:29:2)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+2023-12-13 18:59:23 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/mentor.controller.ts(146,39): error TS1003: Identifier expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/mentor.controller.ts(146,39): error TS1003: Identifier expected.
+
+    at createTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:863:19)
+    at C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2023-12-13 18:59:26 error: uncaughtException: Route.put() requires a callback function but got a [object Undefined]
+Error: Route.put() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as put] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as put] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at MentorRoutes.initializeRoutes (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\mentor.route.ts:20:17)
+    at new MentorRoutes (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\mentor.route.ts:12:10)
+    at Object.<anonymous> (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\index.routes.ts:29:2)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+2023-12-13 18:59:30 error: uncaughtException: Route.put() requires a callback function but got a [object Undefined]
+Error: Route.put() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as put] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as put] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at MentorRoutes.initializeRoutes (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\mentor.route.ts:20:17)
+    at new MentorRoutes (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\mentor.route.ts:12:10)
+    at Object.<anonymous> (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\index.routes.ts:29:2)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+2023-12-13 18:59:53 error: uncaughtException: Route.put() requires a callback function but got a [object Undefined]
+Error: Route.put() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as put] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as put] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at MentorRoutes.initializeRoutes (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\mentor.route.ts:20:17)
+    at new MentorRoutes (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\mentor.route.ts:12:10)
+    at Object.<anonymous> (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\apps\server\src\routes\index.routes.ts:29:2)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module.m._compile (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Shailendra kumar\Desktop\masai-projects\masai-alumni\node_modules\.pnpm\ts-node@10.9.1_@swc+core@1.3.95_@types+node@18.17.2_typescript@5.1.3\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
