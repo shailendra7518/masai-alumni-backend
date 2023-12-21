@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "D:\\masai-backend\\masai-alumni-backend\\src\\logs\\debug\\.72d79b76e34e732a66a9a9c67fa488a3ba7c372a-audit.json",
+    "files": [
+        {
+            "date": 1703149671449,
+            "name": "D:\\masai-backend\\masai-alumni-backend\\src\\logs\\debug\\2023-12-21.log",
+            "hash": "aa42d24a5e977b5be341b70992adf87eec1da1fc0fd5934db4c1fe10f0d4d8fd"
+        }
+    ],
+    "hashType": "sha256"
+}
